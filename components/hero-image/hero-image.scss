@@ -1,0 +1,83 @@
+.hero-image {
+    // max-width: 1360px;
+    margin-left: 126px;
+    margin-top: 126.82px;
+    margin-right: 95px;
+}
+
+.hero-image__content {
+    width: 790px;
+}
+
+.hero-image__title {
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    color: #151515;
+}
+.hero-image__text {
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7;
+}
+.hero-image__button {
+    width: 189px;
+    height: 53px;
+    background: #4737FF;
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 56px;
+}
+.hero-image__loader {
+    margin-top: 216px;
+}
+.loader {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    padding: 0;
+    margin: 0;
+}
+
+.hero-image__items {
+    width: 790px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-image__background {
+    position: absolute;
+    width: 665px;
+    height: 840px;
+    background: url(/img/Placeholder.png);
+}
+
+.hero-image__placeholder {
+    position: absolute;
+    width: 400px;
+    height: 364px;
+    // left: 570px;
+    // top: 452px;
+    background: url(/img/Placeholder_play.png);
+    // box-shadow: -20px 60px 220px rgba(0, 0, 0, 0.44);
+}
