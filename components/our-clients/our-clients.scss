@@ -1,0 +1,44 @@
+.our-clients {
+    background: #FAFAFA;
+}
+
+
+.our-clients__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 127px;
+    padding-top: 102px;
+}
+
+.our-clients__content .title {
+    width: 470px;
+}
+
+.our-clients__inner {
+    margin-left: 197px;
+}
+
+.our-clients__link {
+    color: #222222;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 17px;
+    text-decoration: none;
+}
+
+.our-clients__inner .text {
+    margin-top: 17px;
+}
+
+.our-clients__images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 139.4px;
+}

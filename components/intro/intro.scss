@@ -1,0 +1,52 @@
+.clearfix {
+    clear: both;
+}
+
+.intro {
+    margin-top: 137px;
+    margin-bottom: 142px;
+}
+
+.intro__background {
+    display: inline-block;
+    background-image: url(/img/Placeholder_three.png);
+    width: 475px;
+    height: 564px;
+}
+
+.intro__content {
+    width: 50%;
+    float: right;
+}
+
+.intro__content .title {
+    margin-bottom: 30px;
+    padding-top: 37px;
+}
+
+.clearfix { 
+    clear: both; 
+}
+
+.text .paragraph {
+    margin-top: 20px;
+}
+
+.intro__contact {
+    margin-top: 61px;
+    display: flex;
+}
+
+.intro__icon {
+    padding-right: 31px;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    background-image: url(/img/Ellipse.png);
+}
+
+.intro__data {
+    padding-left: 31px;
+}
+
+
